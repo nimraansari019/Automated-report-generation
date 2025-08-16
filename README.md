@@ -12,7 +12,7 @@ The generated reports include the student’s name, marks in different subjects,
 
 
 
-### ⚙ Tools & Libraries Used
+###  Tools & Libraries Used
 
 * **Python 3.12** → Core programming language.
 * **CSV Module** → Reads student data from a CSV file (`students.csv`).
@@ -22,7 +22,7 @@ The generated reports include the student’s name, marks in different subjects,
 
 ---
 
-### 🛠 Implementation Details
+###  Implementation Details
 
 1. **CSV Input File (`students.csv`)**
 
