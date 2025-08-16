@@ -81,17 +81,7 @@ Report saved as: Ali_report.pdf
 **Sample PDF (Ali\_report.pdf)**
 
 ```
-ABC School – Report Card
-Academic Year: 2024–2025
-Student Name: Ali
-
-Subject   Marks
-Maths     78
-Science   85
-English   92
-Total     255
-Average   85.0
-Result    Pass
+<img width="1204" height="751" alt="Image" src="https://github.com/user-attachments/assets/1498f109-5814-474f-9ae3-0aeb60ec317f" />
 ```
 
 ---
